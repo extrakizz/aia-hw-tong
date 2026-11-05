@@ -1,0 +1,21 @@
+period,period_end,report_date,net_sales_chf_m,gross_profit_chf_m,net_income_chf_m,source_url,accessed
+Q3 2021,2021-09-30,2021-11-16,218.0,131.3,13.0,https://www.sec.gov/Archives/edgar/data/1858985/000185898521000004/a991pressreleasedatednovem.htm,2026-11-05
+Q4 2021,2021-12-31,2022-03-18,191.1,111.8,,https://www.sec.gov/Archives/edgar/data/1858985/000185898522000008/a991pressreleasedatedmarch.htm,2026-11-05
+Q1 2022,2022-03-31,2022-05-17,235.7,122.1,14.3,https://www.sec.gov/Archives/edgar/data/1858985/000185898522000016/a22q1-pressrelease.htm,2026-11-05
+Q2 2022,2022-06-30,2022-08-16,291.7,160.8,49.1,https://www.sec.gov/Archives/edgar/data/1858985/000185898522000020/a22q2-pressrelease.htm,2026-11-05
+Q3 2022,2022-09-30,2022-11-16,328.0,187.4,20.6,https://www.sec.gov/Archives/edgar/data/1858985/000185898522000025/a22q3-pressrelease.htm,2026-11-05
+Q4 2022,2022-12-31,2023-03-21,366.8,214.6,-26.4,https://www.sec.gov/Archives/edgar/data/1858985/000185898523000015/a991pressreleasedatedmarch.htm,2026-11-05
+Q1 2023,2023-03-31,2023-05-16,420.2,244.9,44.4,https://www.sec.gov/Archives/edgar/data/1858985/000185898523000034/a23q1-ex991xpressrelease.htm,2026-11-05
+Q2 2023,2023-06-30,2023-08-15,444.3,264.5,3.3,https://www.sec.gov/Archives/edgar/data/1858985/000185898523000042/a23q2-ex993xpressrelease.htm,2026-11-05
+Q3 2023,2023-09-30,2023-11-14,480.5,287.7,58.7,https://www.sec.gov/Archives/edgar/data/1858985/000185898523000052/a23q3-ex991xpressrelease.htm,2026-11-05
+Q4 2023,2023-12-31,2024-03-12,447.1,270.2,-26.8,https://www.sec.gov/Archives/edgar/data/1858985/000185898524000014/ex991pressreleasedatedmarc.htm,2026-11-05
+Q1 2024,2024-03-31,2024-05-14,508.2,303.3,91.4,https://www.sec.gov/Archives/edgar/data/1858985/000185898524000020/a24q1-ex991xpressrelease.htm,2026-11-05
+Q2 2024,2024-06-30,2024-08-13,567.7,340.2,30.8,https://www.sec.gov/Archives/edgar/data/1858985/000185898524000024/a24q2-ex993xpressrelease.htm,2026-11-05
+Q3 2024,2024-09-30,2024-11-12,635.8,385.3,30.5,https://www.sec.gov/Archives/edgar/data/1858985/000185898524000029/a24q3-ex991xpressrelease.htm,2026-11-05
+Q4 2024,2024-12-31,2025-03-04,606.6,376.8,89.5,https://www.sec.gov/Archives/edgar/data/1858985/000185898525000005/ex991pressreleasedatedmarc.htm,2026-11-05
+Q1 2025,2025-03-31,2025-05-13,726.6,435.3,56.7,https://www.sec.gov/Archives/edgar/data/1858985/000185898525000008/a25q1-ex991xpressrelease.htm,2026-11-05
+Q2 2025,2025-06-30,2025-08-12,749.2,460.8,-40.9,https://www.sec.gov/Archives/edgar/data/1858985/000185898525000012/a25q2-ex993xpressrelease.htm,2026-11-05
+Q3 2025,2025-09-30,2025-11-12,794.4,522.2,118.9,https://www.sec.gov/Archives/edgar/data/1858985/000185898525000015/a25q3-ex991xpressrelease.htm,2026-11-05
+Q4 2025,2025-12-31,2026-03-03,743.8,475.3,69.1,https://www.sec.gov/Archives/edgar/data/1858985/000185898526000010/ex991pressreleasedatedmarc.htm,2026-11-05
+Q1 2026,2026-03-31,2026-05-12,831.9,534.3,103.3,https://www.sec.gov/Archives/edgar/data/1858985/000185898526000014/a26q1-ex991xpressrelease.htm,2026-11-05
+Q2 2026,2026-06-30,2026-08-11,850.3,555.7,105.0,https://www.sec.gov/Archives/edgar/data/1858985/000185898526000018/a26q2-ex993xpressrelease.htm,2026-11-05

@@ -1,0 +1,6 @@
+fiscal_year,net_sales_chf_m,gross_profit_chf_m,net_income_chf_m,operating_cash_flow_chf_m,inventories_chf_m,source_url,accessed
+2021,724.6,430.3,-170.2,16.9,134.2,https://data.sec.gov/api/xbrl/companyfacts/CIK0001858985.json,2026-11-05
+2022,1222.1,684.9,57.7,-227.0,395.6,https://data.sec.gov/api/xbrl/companyfacts/CIK0001858985.json,2026-11-05
+2023,1792.1,1067.2,79.6,232.1,356.5,https://data.sec.gov/api/xbrl/companyfacts/CIK0001858985.json,2026-11-05
+2024,2318.3,1405.7,242.3,510.6,419.2,https://data.sec.gov/api/xbrl/companyfacts/CIK0001858985.json,2026-11-05
+2025,3014.0,1893.6,203.7,359.5,419.8,https://data.sec.gov/api/xbrl/companyfacts/CIK0001858985.json,2026-11-05
